@@ -1,0 +1,13 @@
+console.log("Hey,I'm using the console screen");
+var firstname= "Aarna";
+var lastname= "Gupta";
+var fullname= firstname.concat(lastname);
+console.log(fullname);
+var a= 10;
+var b= 5;
+var add= a+b;
+var sub= a-b;
+console.log("add= "+add+" sub= "+sub);
+var div= a/b;
+var multiply= a*b;
+console.log("multiply= "+multiply+" div= "+div);
